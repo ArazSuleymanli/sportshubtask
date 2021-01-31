@@ -1,0 +1,29 @@
+{
+  "name": "arazsuleymanli",
+  "version": "1.0.0",
+  "description": "ApplicationforSportsHub",
+  "main": "1",
+  "scripts": {
+    "test": "1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArazSuleymanli/sportshubtask.git"
+  },
+  "keywords": [
+    "task",
+    "for",
+    "sportshub"
+  ],
+  "author": "ArazSuleymanli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArazSuleymanli/sportshubtask/issues"
+  },
+  "homepage": "https://github.com/ArazSuleymanli/sportshubtask#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  }
+}
