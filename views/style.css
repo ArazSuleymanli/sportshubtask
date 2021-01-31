@@ -1,8 +1,20 @@
 
-
 h1 {
-    color: red;
+    color: rgb(196, 179, 27);
     align-self: center;
-    size: 20px;
+    size: 50px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
+    text-align: center;
+}
+
+h2 {
+
+    text-align: center;
+ 
+}
+
+h3 {
+
+    text-align: center;
+
+}
